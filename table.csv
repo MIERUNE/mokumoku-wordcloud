@@ -1,0 +1,564 @@
+#,参加者,内容
+1,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - QGIS編 -
+1,Ryohei Abe,MIERUNEの認証をexpressで試す
+1,Mitsuha Miyake,AWS Cloud Practitioner EssentialsのEラーニングやる
+1,Ryo Yokoyama,6/24勉強会発表内容の改修 (ブラウザ上でpython実行/結果表示したい)
+1,Satoru Nishio,Serverless Frameworkでジオイド高取得APIを作成したい
+1,Kanahiro Iguchi,GO言語に入門
+1,Norihiro Narayama,p5.jsで何か作る
+2,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - QGIS編 -
+2,Ryohei Abe,AWSトレーニングの準備
+2,Mitsuha Miyake,江戸時代にタイムスリップしたい。
+2,Norihiro Narayama,振り返りプレゼン資料の作成
+2,Satoru Nishio,
+2,Yasuto Furukawa,
+2,Taiyu Yoshizawa,Nextjs + Serverlessと格闘する
+2,Ryo Yokoyama,コンソールと格闘
+3,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - QGIS編 -
+3,Mitsuha Miyake,江戸時代にタイムスリップしたい。
+3,Ryohei Abe,
+3,Norihiro Narayama,AmazonLocationServiceの発表資料の作成
+3,Satoru Nishio,
+3,Taiyu Yoshizawa,
+3,Ryo Yokoyama,今日こそブラウザでPython動かす
+4,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - QGIS編 -
+4,Norihiro Narayama,AmazonLocationServiceのQiita記事を書く
+4,Taiyu Yoshizawa,ALSのQiita記事を書く&タッチ位置がズレる問題を直す
+4,Mitsuha Miyake,江戸時代にタイムスリップしたい。
+5,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - QGIS編 & フロントエンド編 -
+5,Norihiro Narayama,AWSトレーニングのフィードバックQiita記事の執筆
+5,Mitsuha Miyake,江戸時代にタイムスリップしたい。
+6,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - フロントエンド編 -
+6,Norihiro Narayama,AWSトレーニングに関連したことをQiita記事として執筆する
+6,Agano Oasis,GCPのトレーニングを継続中です。
+6,Taiyu Yoshizawa,Amplify Geoを試してQiitaを書く
+7,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - フロントエンド編 -
+7,Norihiro Narayama,MIERUNEトレーニングQGIS編
+7,Taiyu Yoshizawa,Maputnikの中身を理解する
+7,Kanahiro Iguchi,作ってるMapboxプラグインを進める
+7,Mitsuha Miyake,氾濫原を可視化する
+8,Yasunori Kirimoto,GCPトレーニング
+8,Norihiro Narayama,GCPトレーニング
+8,Ryohei Abe,GCPトレーニング
+8,Mitsuha Miyake,江戸時代にタイムスリップしたい
+8,Taiyu Yoshizawa,
+9,Norihiro Narayama,MIERUNEトレーニング GIS編
+9,Taiyu Yoshizawa,Nextjsでフォームを作ってみる
+10,Norihiro Narayama,QGISトレーニングつづき＋GCPトレーニングの記事考える
+10,Taiyu Yoshizawa,
+10,Yasuto Furukawa,
+11,Yasunori Kirimoto,AWSトレーニング発表資料作成
+11,Norihiro Narayama,GISトレーニングのつづき
+11,Taiyu Yoshizawa,
+12,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - バックエンド編 -
+12,Qu Xinmiao,GISトレーニング04の続き
+12,Norihiro Narayama,QGIS上級編の続き
+12,Yasuto Furukawa,Slackのカスタマイズを試すよ！
+12,Taiyu Yoshizawa,VuetifyでUIをつくる
+13,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - バックエンド編 -
+13,Norihiro Narayama,QGISトレーニング上級編の続き
+13,Ryohei Abe,書きかけのGCPに関する記事を完成させよう
+14,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - バックエンド編 -
+14,Norihiro Narayama,QGISトレーニング上級編の続き
+14,Ryohei Abe,
+14,Yasuto Furukawa,FOSS4G Buenos Aires 2021のピックアップ
+15,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - バックエンド編 -
+15,Yasuto Furukawa,FOSS4G Buenos Airesの記録をまとめてみる
+15,Ryo Yokoyama,
+15,Ryohei Abe,GitHubを実務で使う方法をまとめてみよう
+15,Taiyu Yoshizawa,複数テーマ・複数アクセントカラーのあるデザインのカラー管理の最適解を探す
+15,Qu Xinmiao,GASとFreee APIを使ってみる
+15,Satoru Nishio,rust使いになる
+16,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - バックエンド編 -
+16,Yasuto Furukawa,イベント準備
+16,Norihiro Narayama,GISトレーニング
+16,Ryohei Abe,
+16,Qu Xinmiao,フロントエンドトレーニング
+16,Satoru Nishio,
+17,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - バックエンド編 -
+17,Norihiro Narayama,GISのトレーニング or マップスタイルチェックツール制作
+17,Yasuto Furukawa,30分だけでもFOSS4G Buenos Airesまとめの続きをするぜ
+17,Yusuke Suzuki,
+17,Ryohei Abe,
+17,Satoru Nishio,
+18,Yasunori Kirimoto,MIERUNEトレーニングをやってみる - バックエンド編 -
+18,Norihiro Narayama,スライド修正
+18,Yasuto Furukawa,大河小説 FOSS4G buenos aires 第3話
+18,Qu Xinmiao,バックエンドトレーニング
+18,Kanahiro Iguchi,WebGL2のTransform Feedback周り
+18,Ryohei Abe,
+18,Satoru Nishio,
+19,Yasunori Kirimoto,Amplify Geoについてやってみる
+19,Norihiro Narayama,FlutterにAmplify入れて認証機能を入れる
+19,Qu Xinmiao,バックエンドトレーニング
+19,Ryohei Abe,
+19,Satoru Nishio,
+20,Yasunori Kirimoto,Amplify Geoについてやってみる
+20,Norihiro Narayama,スタイルチェックツールの制作
+20,Mitsuha Miyake,地図制作かお絵かき
+20,Ryohei Abe,
+20,Satoru Nishio,
+21,Yasunori Kirimoto,Amplify Geoについてやってみる
+21,Mitsuha Miyake,GじゃないFOSSでGする
+21,Norihiro Narayama,ALSについて
+21,Ryohei Abe,
+21,Satoru Nishio,
+22,Yasunori Kirimoto,アドベントカレンダーに向けて
+22,Taiyu Yoshizawa,Sprite生成ツールを作ります
+22,Mitsuha Miyake,Blenderで地図を作りたい
+22,Norihiro Narayama,
+22,Ryohei Abe,
+23,Yasunori Kirimoto,アドベントカレンダーに向けて
+23,Ryohei Abe,アドベントカレンダーに向けて
+23,Norihiro Narayama,ALSについてのスライド資料準備
+24,Yasunori Kirimoto,アドベントカレンダーに向けて
+24,Ryohei Abe,
+24,Qu Xinmiao,
+24,Norihiro Narayama,
+25,Yasunori Kirimoto,charitesさわってみる
+25,Ryohei Abe,charitesさわってみる
+25,Qu Xinmiao,charitesさわってみる
+25,Norihiro Narayama,charitesさわってみる
+25,Taiyu Yoshizawa,charitesさわってみる
+25,Mitsuha Miyake,charitesさわってみる
+25,Toru Mori,charitesさわってみる
+26,Yasunori Kirimoto,アドベントカレンダーに向けて
+26,Norihiro Narayama,アドベントカレンダーの記事用コンテンツ
+26,Ryohei Abe,
+26,Satoru Nishio,
+26,Taiyu Yoshizawa,
+27,Yasunori Kirimoto,次回の社内勉強会に向けて
+27,Norihiro Narayama,
+27,Mitsuha Miyake,Blender
+28,Yasunori Kirimoto,次回の社内勉強会に向けて
+28,Norihiro Narayama,
+28,Mitsuha Miyake,Blender
+28,Ryohei Abe,
+29,Yasunori Kirimoto,Next.jsはじめてみた
+29,Mitsuha Miyake,Blender
+29,Norihiro Narayama,
+29,Ryohei Abe,
+29,Qu Xinmiao,
+30,Yasunori Kirimoto,Next.js触ってみる
+30,Qu Xinmiao,AWSのIAMユーザーとポリシーを設定してみる
+30,Norihiro Narayama,
+30,Ryohei Abe,
+31,Yasunori Kirimoto,AWS Amplifyでのホスティングの種類を調べてみる
+31,Ryohei Abe,WSGIの調査
+31,Mitsuha Miyake,
+31,Norihiro Narayama,
+32,Yasunori Kirimoto,次回社内勉強会に向けて
+32,Norihiro Narayama,hubble.glをさわってみる
+32,Ryohei Abe,
+32,Mitsuha Miyake,
+33,Yasunori Kirimoto,AWS CloudFormation調べてみる
+33,Norihiro Narayama,
+33,Ryohei Abe,
+33,Mitsuha Miyake,
+34,Yasunori Kirimoto,今月の社内外の発表に向けて
+34,Norihiro Narayama,meetup miniの事を考える
+34,Mitsuha Miyake,meetup miniの発表資料作る
+34,Kanahiro Iguchi,
+34,Ryohei Abe,
+35,Yasunori Kirimoto,AWS CDK触ってみる
+35,Kanahiro Iguchi,MapLibreのstyleのテストを考える
+35,Norihiro Narayama,meetup miniの準備
+35,Mitsuha Miyake,
+35,Ryohei Abe,
+36,Yasunori Kirimoto,AWS CDK触ってみる
+36,Norihiro Narayama,meetup miniの準備
+36,Ryohei Abe,
+37,Yasunori Kirimoto,AWS CDK触ってみる
+37,Norihiro Narayama,
+37,Ryohei Abe,AWSかDBの本を読む
+37,Yusuke Suzuki,MIERUNE MEETUP vol.2発表ネタの続き or Blender で雪だるまを作る。
+37,Satoru Nishio,さんすう
+37,Taiyu Yoshizawa,SafariのRelease Noteを読む
+38,Yasunori Kirimoto,社内勉強会に向けて
+38,Norihiro Narayama,
+38,Mitsuha Miyake,
+38,Satoru Nishio,デベロッパーアソシエイト
+38,Qu Xinmiao,トレーニングのおすすめ技術本を読む
+38,Yusuke Suzuki,Blender をいじくる。BlenderGISがver3.x台のBlenderでも使えるか確認する or ver3.1で点群に対応したらしいので確認。
+38,Ryohei Abe,AWSの本
+39,Yasunori Kirimoto,QGIS v3.24 新機能お試し
+39,Norihiro Narayama,QGIS v3.24 新機能お試し
+39,Kanahiro Iguchi,QGIS v3.24 新機能お試し
+39,Mitsuha Miyake,QGIS v3.24 新機能お試し
+39,Ryohei Abe,QGIS v3.24 新機能お試し
+39,Toru Mori,QGIS v3.24 新機能お試し
+39,Ryo Yokoyama,QGIS v3.24 新機能お試し
+40,Yasunori Kirimoto,今月の社外の発表に向けて
+40,Mitsuha Miyake,blender
+40,Satoru Nishio,
+40,Ryo Yokoyama,ovewviewerを読み解く
+41,Yasunori Kirimoto,今月の社外の発表に向けて
+41,Norihiro Narayama,
+41,Ryo Yokoyama,社内振り返りLT資料作成
+42,Yasunori Kirimoto,明日の社内発表に向けて
+42,Norihiro Narayama,ネタ探しなど
+42,Mitsuha Miyake,D3.jsさわる
+42,Ryo Yokoyama,明日の勉強会の準備でMacにMinecraftのローカルサーバー立てる
+42,Pakhin Yuen,この前作った札幌の犯罪率の地図をLeafletとかでウェブに上げてみる、時間があればQGISで天体図を作る作業も進める
+43,Yasunori Kirimoto,ネタ探しの旅
+43,Norihiro Narayama,
+43,Takayuki Kawajiri,A-frame紹介資料作成
+43,Ryo Yokoyama,
+43,Toshiya Kunou,Githubさわる
+43,Yusuke Suzuki,Twitterスペース向けに、PCと会議用スピーカーホンを使って複数人でおしゃべりした音声を一台のスマホだけで配信できるか試してみる。
+44,Yasunori Kirimoto,AWS App Runner x GIS触ってみる
+44,Norihiro Narayama,Next.jsの基礎勉強 or Solid.jsのつづき
+44,Takayuki Kawajiri,360°写真表示用の、静的HTML等のサンプル作成 github page使ってみる
+44,Toshiya Kunou,node.jsの環境構築
+44,Pakhin Yuen,Lidarを触ってみる
+44,Mitsuha Miyake,d3jsで日本地図出す
+44,Ryo Yokoyama,
+45,Yasunori Kirimoto,次回社内勉強会に向けて
+45,Takayuki Kawajiri,A-frame内3D空間で積木してみる。3Dobjを配置してみる。緯度経度AR_3Dobjもやってみたいが。
+45,Ryo Yokoyama,OBJの編集と明日の勉強会資料作成
+45,Toshiya Kunou,フロントエンドのトレーニング
+45,Norihiro Narayama,Next.js
+45,Pakhin Yuen,明日社内勉強会の準備。時間があればEC2でRTMPサーバーを立てる
+45,Ryohei Abe,
+45,Qu Xinmiao,QGIS Plugin開発勉強
+46,Yasunori Kirimoto,CesiumとかiTownsとかでベクトルタイル
+46,Takayuki Kawajiri,LocationBaseARサンプル作成
+46,Pakhin Yuen,AWS上でHLSの鯖を立ててみる
+46,Ryo Yokoyama,LASについてお勉強(予定)
+46,Toshiya Kunou,Dockerについてお勉強
+46,Norihiro Narayama,
+46,Ryohei Abe,
+46,Satoru Nishio,
+47,Yasunori Kirimoto,イベントもろもろ準備
+47,Norihiro Narayama,Meetupの資料つくる
+47,Takayuki Kawajiri,Spaceの話題ネタ整理
+47,Toshiya Kunou,Qiitaの記事書く
+47,Ryo Yokoyama,
+47,Ryohei Abe,
+47,Satoru Nishio,
+48,Norihiro Narayama,ストーリーコンテンツのアプローチ考えるかトレーニングの整備
+48,Takayuki Kawajiri,ちょっとトレーニングFront08TipsにA-Frame360°写真の実装例を記載
+48,Sorami Hisamoto,QGISで「天国から視点」っぽい雲がかった画像を作る
+48,Pakhin Yuen,React.jsに触れてみる
+48,Yasunori Kirimoto,社内のNotionに濃いめのプロフィール書いてみる
+48,Toshiya Kunou,Qiita記事書く
+48,Kanahiro Iguchi,Fastify+PrismaでREST-APIをつくる
+48,Hajime Kato,何かやります
+48,Ryo Yokoyama,Pythonの勉強
+48,Satoru Nishio,
+49,Norihiro Narayama,
+49,Yasunori Kirimoto,
+49,Sorami Hisamoto,地図投影法を学ぶ
+49,Takayuki Kawajiri,A-Frameで小宇宙VR作成
+49,Ryo Yokoyama,Biscuitの設定とMinecraftのあれこれ調査
+49,Kanahiro Iguchi,
+49,Ryohei Abe,
+49,Yasuto Furukawa,
+50,Norihiro Narayama,HEREのルーティングのまとめ
+50,Yasunori Kirimoto,Slackの絵文字追加 & GitHub整理
+50,Sorami Hisamoto,主題図ライブラリ “bertin.js” をさわってみよう
+50,Takayuki Kawajiri,先週のつづきA-Frameで小宇宙VR　スケール距離をリアルにしてみる
+50,Hajime Kato,デザイン／Qiitaの記事
+50,Satoshi Komatsu,
+50,Toru Mori,
+50,Satoru Nishio,
+51,Hajime Kato,
+51,Sorami Hisamoto,
+51,Norihiro Narayama,
+51,Ryohei Abe,
+51,Takayuki Kawajiri,
+51,Xinmiao Qu,
+51,Satoru Nishio,
+51,Satoshi Komatsu,
+51,Toshiya Kunou,
+51,Yusuke Suzuki,
+51,Yasunori Kirimoto,
+51,Pakhin Yuen,
+52,Norihiro Narayama,
+52,Yusuke Suzuki,新ルーターのセットアップ。VLANをいくつか作ってゲスト用はインターネット以外出れないように変更。
+52,Yasunori Kirimoto,次のネタ探しの旅
+52,Satoshi Komatsu,
+52,Hajime Kato,
+52,Toshiya Kunou,
+52,Sorami Hisamoto,Turf.jsを眺めてみよう
+52,Pakhin Yuen,Map Compare開発環境構築
+52,Yasuto Furukawa,ヤクルト1000の効果的な保存方法
+52,Satoru Nishio,
+52,Ryohei Abe,
+52,Kanahiro Iguchi,
+53,Norihiro Narayama,残っている作業をします
+53,Takayuki Kawajiri,7/21 社内勉強会の発表ネタ整理
+53,Satoshi Komatsu,Next.js と tailwindcss を理解する
+53,Pakhin Yuen,新しく作ろうとしている地図の編集など
+53,Yasunori Kirimoto,ネタ探しの旅
+53,Yusuke Suzuki,RADIUS サーバに登録した情報で WiFi 機器の認証をさせてみるぞえ（昼間のネットワーク機器管理の続き）
+53,Hajime Kato,
+53,Toshiya Kunou,イベントの BGM を探す
+53,Sorami Hisamoto,世界人口のうち何%が日中なのか？
+54,Norihiro Narayama,
+54,Yasunori Kirimoto,FOSS4G 2022 Firenze タイムテーブル調べ
+54,Pakhin Yuen,サウナDBの整備
+54,Hajime Kato,勉強会のスライド作成など
+54,Satoshi Komatsu,FOSS4GTOKAI準備
+54,Sorami Hisamoto,簡略化した日本国土の図、鉛筆スケッチ風な日本国土の図
+54,Takayuki Kawajiri,バックエンドトレーニング04
+54,Toshiyakunou,
+55,Norihiro Narayama,sql.jsを触る
+55,Pakhin Yuen,ReactJS
+55,Takayuki Kawajiri,以前作ったA-FrameVRのコンテンツをVRゴーグルで見てみる
+55,Satoshi Komatsu,FOSS4GTOKAIスライド準備、自作WebGISの修正
+55,Hajime Kato,FOSS4Gフィレンツェ配布物作成
+55,Toshiya Kunou,Qtのお勉強
+55,Sorami Hisamoto,Every Layout
+55,Raymond Lay,Vuetify training
+56,Norihiro Narayama,
+56,Sorami Hisamoto,Street Voronoi of Hokkaido / Sorami Hisamoto / Observable
+56,Yasunori Kirimoto,AWS App Runner と Amazon ECR で GIS 的な何かを
+56,Takayuki Kawajiri,明日のスペースネタ探し
+56,Raymond Lay,社内勉強会準備
+56,Kouki Maeda,個人メモなど
+56,Pakhin Yuen,FOSS4G で行きたい発表を探す 時間があれば React で家計簿的なウェブアプリを作る
+56,Hajime Kato,
+56,Xinmiao Qu,Django コンファレンス調査
+56,Satoshi Komatsu,FOSS4GTOKAI スライド作成
+57,Norihiro Narayama,企画を考える or 企画書テンプレを用意する
+57,Hajime Kato,
+57,Ryo Yokoyama,個人ページの更新
+57,Kouki Maeda,トレーニング/Cesium
+57,Raymond Lay,個人 Facebook Graph API 地図の Maplibre 化
+58,Norihiro Narayama,
+58,Satoshi Komatsu,CSS の復習
+58,Takayuki Kawajiri,45 コマ見たいところはチェックを付けた。https://www.notion.so/mierune/Foss4g-abb00097af064468a738a842360a7442
+59,Norihiro Narayama,
+59,Raymond Lay,FOSS4G
+59,Satoshi Komatsu,
+60,Norihiro Narayama,作業整理と Unity
+60,Satoshi Komatsu,Maplibre でいろいろ試す
+60,Pakhin Yuen,サウナ DB サイト「サウルネ」開発・構築
+60,Yasunori Kirimoto,面談準備
+60,Sorami Hisamoto,Meetup mini 準備
+60,Raymond Lay,チーム体制の notion 改善案
+60,Kouki Maeda,フロントエンドのローカル環境テスト
+60,Kawajiri,JavaScriptPrimer 書籍を読む
+60,Hajime Kato,maptiler edit を触ってみる
+61,Norihiro Narayama,
+61,Satoshi Komatsu,Wikidata について
+61,Yasunori Kirimoto,AWS CDK & Amazon Location Service
+61,Raymond Lay,
+61,Hajime Kato,
+62,Satoshi Komatsu,wikidata でマッピング
+62,Norihiro Narayama,最後の方に参加予定
+63,Satoshi Komatsu,sparkle について調べる
+63,Norihiro Narayama,LT 準備
+63,Yasunori Kirimoto,Leaflet & Amazon Location Service の整理と deckgl-starter 公開準備
+63,Hajime Kato,QGIS トレーニング
+63,Sorami Hisamoto,deck.gl
+63,Raymond Lay,#30DayMapChallenge
+63,Kouki Maeda,フロントエンドトレーニング
+64,Satoshi Komatsu,css で Vuetify を再現する
+64,Yasunori Kirimoto,AWS re:Invent 2022 準備 & 英語スライド作成
+64,Sorami Hisamoto,deck.gl と kepler.gl
+64,Kouki Maeda,フロントエンドトレーニング
+64,Raymond Lay,#30DayMapChallenge
+64,Takayuki Kawajiri,朝 LT のネタ整理
+64,Hajime Kato,QGIS トレーニング
+64,Toshiya Kunou,朝 LT の準備
+65,Satoshi Komatsu,朝 LT 準備
+65,Yasunori Kirimoto,deck.gl starter
+65,Kouki Maeda,フロントエンドトレーニング
+65,Sorami Hisamoto,"deck.gl, CloudFront"
+65,Toshiya Kunou,朝 LT の準備
+65,Norihiro Narayama,
+65,Raymond Lay,社内勉強会準備
+66,Satoshi Komatsu,JS の配列操作の格闘
+66,Sorami Hisamoto,AWS を完全に理解する
+66,Yasunori Kirimoto,依頼された blog 記事執筆
+66,Toshiya Kunou,
+66,Raymond Lay,"QGIS blog, MIERUNE 側 30 map challenge を考える+HOT 案件"
+66,Hajime Kato,Note 記事
+66,Takayuki Kawajiri,Cesium を触ってみる
+67,Satoshi Komatsu,社内ハンズオン準備
+67,Toshiya Kunou,FOSS4G ハンズオン準備
+67,Sorami Hisamoto,コード相談会 & WebGL の世界に驚く会
+67,Raymond Lay,#30DayMapChallenge
+68,Yasunori Kirimoto,FOSS4G Japan 2022 発表資料作成
+68,Sorami Hisamoto,ポケモン
+68,Raymond Lay,QGIS blog 修正、GTFS-GO を触ってみる
+68,Takayuki Kawajiri,"Observable + openlayers 使ってみる,Glitch"
+68,Ryo Yokoyama,30day-map-challenge のネタ探し
+68,Satoshi Komatsu,API との格闘
+68,Toshiya Kunou,スライド作成
+69,Satoshi Komatsu,古いバージョンの QGIS（Quantum GIS）を触ってみる。
+69,Sorami Hisamoto,Kontur Population Dataset
+69,Yasunori Kirimoto,Advent Calendar に向けてのネタ探しの旅
+69,Toshiya Kunou,テキスト作成
+69,Takayuki Kawajiri,30daysMap チャレンジ(20)作成 TypeScript の本を読む
+69,Hajime Kato,G 空間のチラシ作り
+69,Raymond Lay,Advent Calendar or 不慣れななチャレンジ
+70,Satoshi Komatsu,meet up mini 発表スライド準備
+70,Norihiro Narayama,朝 LT 準備
+70,Sorami Hisamoto,NLP 論文サーベイ
+70,Hajime Kato,meetup mini の発表内容の検討を加速する
+70,Toshiya Kunou,ハンズオン準備
+71,Satoshi Komatsu,Qiita 記事
+71,Raymond Lay,Qiita Avent Calendar
+71,Takayuki Kawajiri,朝 LT の資料
+72,Satoshi Komatsu,スライド準備
+72,Sorami Hisamoto,NLP: ジオコーディングを調べる
+72,Pakhin Yuen,個人ページ整備かな
+72,Norihiro Narayama,記事の準備
+72,Hajime Kato,Meetup miniのスライド調整
+72,Yasunori Kirimoto,MapLibre Eastern Call 参加
+72,Toshiya Kunou,Tellusハンズオンの記事を書く
+72,Takayuki Kawajiri,Meetup miniのスライド調整、発表練習
+72,Raymond Lay,Qiita Advent Calendar
+73,Satoshi Komatsu,here api の調査
+73,Norihiro Narayama,vue3 + cesium
+73,Raymond Lay,IGN(仏国土地理院)訪問の Report
+73,Sorami Hisamoto,Advent Calendar
+73,Hajime Kato,Qiita を書く
+74,Satoshi Komatsu,openlayers
+74,Raymond Lay,dev.to 記事を書く
+74,Norihiro Narayama,
+74,Sorami Hisamoto,年末整理
+75,Satoshi Komatsu,Tailwind CSS
+75,Norihiro Narayama,TAURI
+75,Yasunori Kirimoto,Notion 整理
+75,Takayuki Kawajiri,A-Frame で３ D 散策リベンジ（OSM から３ D データ）
+76,Satoshi Komatsu,QGIS
+76,Sorami Hisamoto,"Vue3/Cesium, Figma, Three.js"
+76,Norihiro Narayama,TAURI
+76,Raymond Lay,python で API requests with key
+76,Yasunori Kirimoto,Notion 整理
+77,Satoshi Komatsu,テルースプラグインを触る
+77,Norihiro Narayama,LT の準備
+77,Hidekazu Takami,cecium やってみる
+77,Sorami Hisamoto,Web スクレイピングと OSM の練習
+77,Yasunori Kirimoto,新ネタ探しの旅
+77,Taku Fukada,人工衛星の軌道を描いてみたい
+77,Takayuki Kawajiri,Cesium について Tips を書く
+77,Hajime Kato,いろいろ
+78,Norihiro Narayama,
+78,Sorami Hisamoto,OSM Mining
+78,Yasunori Kirimoto,新ネタ探しの旅へ
+78,Pakhin Yuen,おすすめホテルリストの整備
+78,Ryo Yokoyama,Slackのワークフロービルダーでちょっと社内の環境整備
+78,Takayuki Kawajiri,朝LTのネタ整理
+79,Satoshi Komatsu,来週 LT の準備
+79,Norihiro Narayama,
+79,Pakhin Yuen,MapTiler でカスタム地図・グラフィック作成
+79,Sorami Hisamoto,Vue.js
+80,Satoshi Komatsu,朝 LT の準備
+80,Norihiro Narayama,
+80,Yasunori Kirimoto,Astro の続きだ！
+80,Sorami Hisamoto,Three.js
+81,Satoshi Komatsu,
+81,Norihiro Narayama,
+81,Sorami Hisamoto,CSS を完全に理解する
+81,Toshiya Kunou,教材作成
+81,Taku Fukada,ES にデータ挿入 & 時間あれば Chalice 触る
+81,Takayuki Kawajiri,mapillary にいろんなカメラからアップロードする方法をまとめる。
+82,Satoshi Komatsu,cesium
+82,Norihiro Narayama,UnitySDK for PLATEAU 触る
+82,Yasunori Kirimoto,社内勉強会企画
+82,Takayuki Kawajiri,Mapillary にアップロード続き（ドラレコデータ）
+83,Satoshi Komatsu,three.js と maplibre とシェーダー
+83,Yasunori Kirimoto,ネタ探しの旅へ画
+83,Sorami Hisamoto,ギットハブを考えよう画
+83,Hidekazu Takami,GDAL コンパイルに挑戦画
+83,Norihiro Narayama,
+83,Hajime Kato,
+83,Takayuki Kawajiri,ネタを探す画
+83,Taku Fukada,cookiecutter つかってみる
+84,Satoshi Komatsu,three.js
+84,Yasunori Kirimoto,Cloudflare 触ってみた
+84,Norihiro Narayama,
+84,Hajime Kato,Qiita を書いてみる
+85,Satoshi Komatsu,Three.js で遊ぶ
+85,Norihiro Narayama,LT 準備
+85,Hajime Kato,
+85,Sorami Hisamoto,コードレビュー、note 執筆
+85,Ryo Yokoyama,話題の AI に触れてみる
+86,Satoshi Komatsu,Three.js
+86,Norihiro Narayama,
+86,Yasunori Kirimoto,CFP 検討
+86,Taku Fukada,
+86,Hajime Kato,
+86,Takayuki Kawajiri,来週の朝 LT 原稿整理、他
+86,Sorami Hisamoto,Figma
+87,Satoshi Komatsu,Three.js & QGISマップ
+87,Yasunori Kirimoto,イベントの発表資料作成
+87,Norihiro Narayama,Vercel
+87,Hajime Kato,
+87,Sorami Hisamoto,スクロールを学ぶ
+87,Takayuki Kawajiri,LocationBaseAR でサッポロビールの明治写真を表示してみる
+88,Satoshi Komatsu,マイクラ v1.19 の環境構築
+88,Taku Fukada,勉強会の用意
+88,Yasunori Kirimoto,イベントの発表資料作成
+88,Norihiro Narayama,
+88,Takayuki Kawajiri,来週参加する勉強会の過去資料を読む
+89,Satoshi Komatsu,マイクラ
+89,Norihiro Narayama,
+89,Sorami Hisamoto,QGIS でオーストラリアを四国にする
+90,Satoshi Komatsu,マイクラ
+90,Norihiro Narayama,
+90,Taku Fukada,Protocol Buffers で MVT 描く
+90,Takayuki Kawajiri,Pannellum を試してみる
+90,Hajime Kato,歴史的行政区域データセットを触ってみる
+90,Hidekazu Takami,次回の LT 用の資料作成
+91,Satoshi Komatsu,マイクラ
+91,Norihiro Narayama,
+91,Taku Fukada,トレーニング整備
+91,Takayuki Kawajiri,朝 LT ネタ整理
+92,Satoshi Komatsu,ひたすらマイクラ
+92,Norihiro Narayama,
+92,Yasunori Kirimoto,memoリプレイス
+92,Raymond Lay,1．Python Refactoring 点をまとめ 2．QgsRasterLayerおためし
+93,Norihiro Narayama,
+93,Hajime Kato,
+93,Raymond Lay,QGIS Plugin Cookbook
+93,Ryo Yokoyama,いつかくる朝会のネタ準備
+94,Satoshi Komatsu,マイクラ MOD 開発
+94,Norihiro Narayama,
+94,Yamazaki Kei,MIERUNE トレーニング
+94,Ryo Yokoyama,tailscale 使ってみる
+94,Raymond Lay,FOSS4G Prizren 資料準備
+94,Takayuki Kawajiri,A-Frame で Plateau 街歩きを作る
+95,Satoshi Komatsu,マイクラ
+95,Norihiro Narayama,
+95,Hidekazu Takami,Rust の習得
+95,Yamazaki Kei,Qiita の記事かく
+95,Sorami Hisamoto,BBQ を準備する
+95,Raymond Lay,FOSS4G Prizren 発表準備
+95,Takayuki Kawajiri,GIS 関連の読書
+96,Satoshi Komatsu,マイクラ
+96,Norihiro Narayama,spabase
+96,Sorami Hisamoto,Web におけるスクロールを考える
+97,Satoshi Komatsu,マイクラ
+97,Norihiro Narayama,Qiita 投稿準備
+97,Hidekazu Takami,相変わらず rust
+97,Toshiya Kunou,FOSS4G のレポートを書く
+98,Satoshi Komatsu,キータ記事書く
+98,Norihiro Narayama,PLATEAU まわり
+98,Ryo Yokoyama,しばらく ChatGPT さわってなかったので色々試してみる
+98,Hidekazu Takami,キータ記事書く
+99,Satoshi Komatsu,生物の多様度指数について&QGIS グラフィカルモデラー
+99,Norihiro Narayama,Qiita の記事完成させて投稿
+99,Yamazaki Kei,テストについて学習やっぱ Qiita 書く
+99,Yasunori Kirimoto,Turf.js の英語記事公開！https://dev.to/mierune/trying-out-various-turfjs-547k
+99,Hidekazu Takami,相変わらず Rust
+99,Hajime Kato,Meetup の note 記事
+99,Yasuto Furukawa,Qiita もうひとひねり書きます
+99,Raymond Lay,FOSS4G Prizren report 準備
+99,Takayuki Kawajiri,朝 LT ネタ作成（VR 近況）
+99,Ryo Yokoyama,
+100,Ryo Yokoyama,【100 回記念おめでとう】 ・notion の DB に Slack の情報飛ばしたい ・ChatGPT と格闘
+100,Norihiro Narayama,はまったところをまとめたい
+100,Yamazaki Kei,pystac さわってみる
+100,Sorami Hisamoto,💯💯💯💯💯💯💯💯💯💯
+100,Raymond Lay,dev.to を書く
+100,Hidekazu Takami,朝 LT 資料作成
+100,Hajime Kato,BBQ の準備 🔥
+100,Takayuki Kawajiri,FOSS4G FUKUI の CFP 考える
+100,Yasunori Kirimoto,CFP & 次の英語記事
+100,Satoshi Komatsu,もくもく会の過去ログを見てデバッグ
